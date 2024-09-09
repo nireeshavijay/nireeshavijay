@@ -17,6 +17,7 @@ I believe in fostering a collaborative and inclusive work environment. I thrive 
 I’m excited to connect with like-minded professionals, explore new opportunities, and continue making impactful contributions to the tech industry. 
 
 - 🌱 I’m currently learning **Next.js** and **GraphQL**
+- 🔗 Here is my LinkedIn profile if you would like to send a connect - www.linkedin.com/in/nireeshavijay
 - 💞️ I’m looking to collaborate on projects that leverage **JavaScript** and **AWS** to build scalable solutions.
 - 📫 How to reach me: **vijayanireesha@gmail.com**
 - 😄 Pronouns: **She/Her**
