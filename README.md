@@ -5,8 +5,13 @@ As a seasoned Full Stack Engineer with over 7 years of hands-on experience, I ha
 ## About Me
 Throughout my career, I’ve had the privilege of working on diverse projects, from developing dynamic web applications to architecting complex backend systems. My technical skill set includes proficiency in:
 
-- **Languages & Frameworks:** JavaScript, TypeScript, React, Node.js, D3.js
-- **Cloud & Tools:** AWS, Docker, Git, CI/CD pipelines
+- **Languages & Frameworks:** JavaScript, TypeScript, ReactJS, NodeJS, D3.js, HTML5, CSS
+- **Client-Side:** JavaScript, TypeScript, ReactJS, NodeJS, D3.js, HTML5, CSS
+- **Cloud & Tools:** Docker, Jenkins, GitLab Pipelines, OpenShift, AWS
+- **Automation/Build/Deploy Tools:** AJAX, JQuery, AngularJS, Angular 2/4/6+, ReactJS, NodeJS
+- **Server-Side Frameworks:** Spring (MVC, Boot, Security)
+- **Software Development/Management Tools:** Git (GitHub/Gitlab), Eclipse, Maven, Gradle,
+IntelliJ, Ant, Subversion, JIRA
 
 I’m passionate about leveraging these tools to solve real-world problems and enhance user experiences.
 
