@@ -6,7 +6,7 @@ As a seasoned Full Stack Engineer with over 7 years of hands-on experience, I ha
 Throughout my career, I’ve had the privilege of working on diverse projects, from developing dynamic web applications to architecting complex backend systems. My technical skill set includes proficiency in:
 
 - **Languages:** Java, JavaScript, TypeScript, SQL, HTML5, CSS
-- **Client-Side:** AJAX, JQuery, AngularJS, Angular 2/4/6+, ReactJS, NodeJS
+- **Client-Side:** ReactJS, AngularJS, NodeJS AJAX, JQuery
 - **Automation/Build/Deploy Tools:** Docker, Jenkins, GitLab Pipelines, OpenShift, AWS
 - **Server-Side Frameworks:** Spring (MVC, Boot, Security)
 - **Software Development/Management Tools:** Git (GitHub/Gitlab), Eclipse, Maven, Gradle, IntelliJ, Ant, JIRA
